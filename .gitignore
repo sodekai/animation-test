@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+sim_cache.pkl
+audio.wav
+*.raw
+/sunset-factory/*.mp4
+/sunset-factory/*.png
+/yasuo-vs-yone/*.mp4
+/yasuo-vs-yone/*.png
